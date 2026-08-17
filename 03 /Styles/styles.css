@@ -1,0 +1,42 @@
+.title{
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+
+    width: 40%;
+    height: 100px;
+    background-color: rgba(0, 255, 255, 0.1);
+
+    border-width: 10px;
+    border-color: rgb(0, 26, 255);
+    border-style: solid;
+}
+
+.body{
+    /*padding: 5%;*/
+    border-width: 10px;
+    border-color: rgb(0, 26, 255);
+    border-style: solid;
+
+    width: fit-content;
+    /*margin-left: auto;
+    margin-right: auto;*/
+
+    margin: 10px;
+    padding-right: 250px;
+    padding-bottom: 5%;
+}
+
+.parent{
+    width: fit-content;
+    margin: auto;
+
+    padding: 2%;
+
+    margin-top: 10px;
+    display: flex;
+    padding: 10px;
+    /*border-width: 2px
+    border-color: rgb(0, 26, 255);
+    border-style: solid;*/
+}   
